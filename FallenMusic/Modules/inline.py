@@ -37,7 +37,6 @@ buttons = InlineKeyboardMarkup(
             InlineKeyboardButton(text="⏸", callback_data="pause_cb"),
             InlineKeyboardButton(text="⏭️", callback_data="skip_cb"),
             InlineKeyboardButton(text="⏹", callback_data="end_cb"),
-            InlineKeyboardButton(text="𝐒𝐎𝐔𝐑𝐂𝐄 𝐒𝐇𝐀𝐑𝐊", url="https://t.me/L_H_V"
         ]
     ]
 )
@@ -46,11 +45,11 @@ buttons = InlineKeyboardMarkup(
 pm_buttons = [
     [
         InlineKeyboardButton(
-            text="ضيف̀ آ̀لبوت لم̀جم̀وع̀́تك ✅",
+            text="ضيف‌ آ‌لبوت لم‌جم‌وع‌تك ✅",
             url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
         )
     ],
-    [InlineKeyboardButton(text="𓂄𓆩 اٰلـٰ̲ـہاٰوٰاٰمـٰ̲ـہرٰ 𓆪‌‌‏𓂁", callback_data="fallen_help")],
+    [InlineKeyboardButton(text="𓂄𓆩 اٰلـٰ‌ـہاٰوٰاٰمـٰ‌ـہرٰ 𓆪‌‌‏𓂁", callback_data="fallen_help")],
     [
         InlineKeyboardButton(text="𝐒𝐎𝐔𝐑𝐂𝐄 𝐒𝐇𝐀𝐑𝐊", url=config.SUPPORT_CHANNEL),
         InlineKeyboardButton(text="ѕụᴘᴘᴏʀᴛ ɢʀᴏụᴘ", url=config.SUPPORT_CHAT),
@@ -67,7 +66,7 @@ pm_buttons = [
 gp_buttons = [
     [
         InlineKeyboardButton(
-            text="ضيف̀ آ̀لبوت لم̀جم̀وع̀́تك ✅",
+            text="ضيف‌ آ‌لبوت لم‌جم‌وع‌تك ✅",
             url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
         )
     ],
@@ -92,8 +91,8 @@ helpmenu = [
         )
     ],
     [
-        InlineKeyboardButton(text="آ̀وآ̀م̀ر̀ آ̀لم̀ط̀́ور̀", callback_data="fallen_cb sudo"),
-        InlineKeyboardButton(text="م̀آ̀لك آ̀لبوت", callback_data="fallen_cb owner"),
+        InlineKeyboardButton(text="آ‌وآ‌م‌ر‌ آ‌لم‌ط‌ور‌", callback_data="fallen_cb sudo"),
+        InlineKeyboardButton(text="م‌آ‌لك آ‌لبوت", callback_data="fallen_cb owner"),
     ],
     [
         InlineKeyboardButton(text="B𝗔𝗖𝗞", callback_data="fallen_home"),
