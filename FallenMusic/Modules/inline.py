@@ -38,8 +38,6 @@ buttons = InlineKeyboardMarkup(
             InlineKeyboardButton(text="⏭️", callback_data="skip_cb"),
             InlineKeyboardButton(text="⏹", callback_data="end_cb"),
             InlineKeyboardButton(text="𝐒𝐎𝐔𝐑𝐂𝐄 𝐒𝐇𝐀𝐑𝐊", url="https://t.me/L_H_V"
-            InlineKeyboardButton(text="ضيف‌ آ‌لبوت لم‌جم‌وع‌تك ✅",
-            url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
         ]
     ]
 )
