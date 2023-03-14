@@ -1,7 +1,7 @@
 {
-    "name": "𝗦𝗢𝗨𝗥𝗖𝗘 𝗠𝗨𝗦𝗜𝗖 𝐒𝐇𝐀𝐑𝐊",
+    "name": "𝗦𝗢𝗨𝗥𝗖𝗘 𝗠𝗨𝗦𝗜𝗖 𝐈𝐁𝐑𝐀𝐇𝐈𝐌 𖣻",
     "description": "اللهم صلي علي سيدنا محمد 🌺",
-    "logo": "https://telegra.ph/file/1859cca4fc103cea7f80a.jpg",
+    "logo": "https://telegra.ph/file/350d674c05537456f81d7.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -13,12 +13,12 @@
     "env": {
       "API_ID": {
         "description": " ضـع ايبي ايدي احصل علية من هنا https://my.telegram.org",
-        "value": "21911480",
+        "value": "",
         "required": true
       },
       "API_HASH": {
         "description": " ضـع ايبي هاش احصل علية من هنا https://my.telegram.org",
-        "value": "b8ababdddc7ab2a226c6eac5ffe07d2f",
+        "value": "",
         "required": true
       },
       "BOT_TOKEN": {
@@ -43,7 +43,7 @@
       },
       "SUPPORT_CHAT": {
         "description": "ضـع رابـط جـروب الـدعـم",
-        "value": "https://t.me/QW_PN",
+        "value": "https://t.me/ggffdtg" ,
         "required": false
       }
     },
